@@ -1,0 +1,57 @@
+.cuerpo{
+   background-color: rgb(43, 47, 46);
+   padding: 0;
+   margin: 0;
+}
+
+.cabecera{
+   padding-top: 30px;
+   background-color: white;
+}
+
+.cabecera img{
+   width: 80px;
+}
+
+.navtabs{
+   background-color: rgb(244, 148, 49);
+}
+
+@media (max-width: 991px){
+   .logo{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+   }
+   .redes{
+      display: flex;
+      justify-content: center;
+}
+}
+
+.seccion{
+   background-color: white;
+   padding: 10px;
+   border-radius: 10px;
+}
+
+.article{
+   padding: 10px;
+}
+
+.article p{
+   padding: 10px;
+   font-size: 15px;
+}
+
+.picarticle img{
+   margin-top: 60px;
+}
+
+.articulo{
+   margin-bottom: 20px;
+}
+
+.listado{
+   padding-top: 80px;
+}
