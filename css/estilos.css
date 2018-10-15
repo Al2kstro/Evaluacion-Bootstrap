@@ -10,7 +10,7 @@
 }
 
 .cabecera img{
-   width: 80px;
+   width: 100px;
 }
 
 .navtabs{
@@ -27,6 +27,9 @@
       display: flex;
       justify-content: center;
 }
+   section img{
+      width: 100%;
+   }
 }
 
 .seccion{
@@ -45,7 +48,9 @@
 }
 
 .picarticle img{
-   margin-top: 60px;
+   margin-top: 80px;
+   width: -200px;
+   height: 230px;
 }
 
 .articulo{
